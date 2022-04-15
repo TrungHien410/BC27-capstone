@@ -1,0 +1,13 @@
+/* reponsive  title_starup*/
+@media (max-width:991px) {
+    .title_starup-content .container {
+        max-width: 100%;
+        flex-direction: column;
+    }
+    .title_starup-content-text {
+        width: 100% !important;
+    }
+    .title_starup-content-img {
+        width: 100% !important;
+    }
+}
