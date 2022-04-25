@@ -50,3 +50,13 @@
         width: 100%;
     }
 }
+@media (max-width: 418px) {
+    .footer_group-btn .book,
+    .footer_group-btn .stared {
+        justify-content: center;
+    }
+    .footer_group-btn {
+        align-items: center;
+    }
+    
+}

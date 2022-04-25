@@ -1,0 +1,33 @@
+@media (max-width:991px) {
+    .services .container {
+        flex-direction: column;
+        max-width: 100%;
+    }
+    .services .container .left_text,
+    .services_right_text {
+        width: 100% !important;
+    }
+    .product .container {
+        flex-direction: column;
+        max-width: 100%;
+    }
+    .item_product {
+        width: 100%;
+    }
+    .product_middle {
+        max-width: 250px;
+        padding-bottom: 20px;
+        margin: 0 auto;
+    }
+    .features .container {
+        flex-direction: column;
+        max-width: 100%;
+    }
+    .features_card_left,
+    .features_card_right  {
+        width: 100% !important;
+    }
+    .features_card_right {
+        margin-top: 30px;
+    }
+}
