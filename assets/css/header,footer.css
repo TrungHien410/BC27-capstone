@@ -22,6 +22,7 @@ html {
     left: 0;
     right: 0;
     background-color: #fff;
+    z-index: 9999;
 }
 .header_navbrand-link {
     color: var(--purple-color);
@@ -153,11 +154,6 @@ html {
 }
 /* END HEADER */
 
-.text {
-    height: 2000px;
-    width: 100%;
-    background-color: aqua;
-}
 
 /* START FOOTER */
 .footer_description .bg_description {
